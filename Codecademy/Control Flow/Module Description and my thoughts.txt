@@ -1,0 +1,5 @@
+This course was a fun introduction to boolean logic and loops. It was a fun refresher into how loops functioned and why they were important. 
+This module wasn't very difficult, but required you to read all the information given, which I often overlooked (easily fixed by not rushing through the reading to get to the coding.)
+
+Codecademy classifies this module as "Learn how to build control flow into your python code by including if, else, and elif statements. Expect to learn all you need to know about boolean variables and logical operators."
+I would say that this was a pretty accurate representation of the module and set up my expectations perfectly. 
