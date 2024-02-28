@@ -18,5 +18,5 @@ gradebook[2].remove(85) #Selects the 3rd list, and removes the score of '85'
 
 gradebook[2].append("Pass")   #This selects the 2nd list and adds a new score, 'Pass' to it.
 
-full_gradebook = last_semester_gradebook + gradebook
+full_gradebook = last_semester_gradebook + gradebook   #Combines the two lists together.
 print("Full gradebook is: ", full_gradebook)
